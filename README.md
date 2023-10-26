@@ -2,14 +2,6 @@ Published website link: https://cmuxiaoshi.github.io/TellingStoryWithData/
 
 This repository https://github.com/CMUxiaoshi/TellingStoryWithData
 
-# Portfolio
-
-Hi, there.
-
-Welcome to visit my GitHub and this repo is my data visualization practice. This is based on Telling Stories with Data at CMU! Here's where all my cool work will go.
-
-Enjoy!
-
 # About Me
 🏃 Studying Data Analytics at Carnegie Mellon University currently.
 
@@ -29,8 +21,21 @@ Here is my studying list:
 2. Selecting Proper Shape
 3. Explaining the Result
 
-# Examples
+# Portfolio
 
+Hi, there.
 
+Welcome to visit my GitHub and this repo is my data visualization practice. This is based on Telling Stories with Data at CMU! Here's where all my cool work will go.
 
+Enjoy!
+
+## Assignment 1: Data visualization critique #1
+
+## Assignment 2:
+
+## Assignment 3:
+
+## Project 1:
+
+## Project 2:
 
