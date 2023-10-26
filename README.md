@@ -39,5 +39,8 @@ Here are some of my works in class. Enjoy!
 
 ## Project 2:
 
-## Internship Project 1:
-<img width="1200" alt="image" src="https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/25ac129f-849a-4836-a760-dbabd621c436">
+# Pictures
+![IMG_0109](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/a01ead3d-ee8f-4c01-91d6-10a495b894b6)
+
+This is used to test if I can put a picture in my portfolio
+
