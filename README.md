@@ -7,7 +7,7 @@ Welcome to visit my GitHub and this repo is my data visualization practice.
 Enjoy!
 
 
-🔭 I’m currently working on business intelligence and Data Analytics.
+🔭 I’m currently working on Business Intelligence and Data Analytics.
 
 🌱 Looking for a full-time job currently.
 
