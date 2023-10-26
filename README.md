@@ -39,3 +39,5 @@ Enjoy!
 
 ## Project 2:
 
+## Internship Project 1:
+<img width="1200" alt="image" src="https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/25ac129f-849a-4836-a760-dbabd621c436">
