@@ -42,5 +42,7 @@ Here are some of my works in class. Enjoy!
 # Pictures
 ![IMG_0109](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/a01ead3d-ee8f-4c01-91d6-10a495b894b6)
 
-This is used to test if I can put a picture in my portfolio.
+![IMG_3372](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/373d9a41-0db3-4241-b606-e69631025282)
+
+This is used to test if I can put pictures in my portfolio.
 
