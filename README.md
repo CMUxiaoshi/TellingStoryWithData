@@ -1,3 +1,7 @@
+Hi, there.
+
+Welcome to visit my GitHub and this repo is my data visualization practice. This is based on Telling Stories with Data at CMU! Here's where all my cool work will go.
+
 Published website link: https://cmuxiaoshi.github.io/TellingStoryWithData/
 
 This repository https://github.com/CMUxiaoshi/TellingStoryWithData
@@ -23,11 +27,7 @@ Here is my studying list:
 
 # Portfolio
 
-Hi, there.
-
-Welcome to visit my GitHub and this repo is my data visualization practice. This is based on Telling Stories with Data at CMU! Here's where all my cool work will go.
-
-Enjoy!
+Here are some of my works in class. Enjoy!
 
 ## Assignment 1: Data visualization critique #1
 
