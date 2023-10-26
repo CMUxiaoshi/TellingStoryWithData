@@ -1,5 +1,5 @@
 published website link: https://cmuxiaoshi.github.io/TellingStoryWithData/
-\n Hi, there.
+$\n$ Hi, there.
 Welcome to visit my GitHub and this repo is my data visualization practice.
 Enjoy!
 
