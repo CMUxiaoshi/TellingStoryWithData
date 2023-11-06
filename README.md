@@ -31,7 +31,7 @@ Here are some of my works in class. Enjoy!
 
 ## Assignment 1: Data visualization critique #1
 
-## Assignment 2: Visualizing government debt using Tableau [Government Dept Ratio Worldwide](visualizing-government-debt)
+## Assignment 2: Visualizing government debt using Tableau: [Government Dept Ratio Worldwide](visualizing-government-debt)
 
 ## Assignment 3:
 
