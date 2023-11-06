@@ -32,7 +32,7 @@ Here are some of my works in class. Enjoy!
 ## Assignment 1: Data visualization critique #1
 
 ## Assignment 2: Visualizing government debt using Tableau
-[https://prod-useast-b.online.tableau.com/t/xiaoshi/views/HW2VisualizinggovernmentdebtusingTableau/GovernmentDebtRatioaroundtheWorld](https://prod-useast-b.online.tableau.com/t/xiaoshi/views/HW2VisualizinggovernmentdebtusingTableau/GovernmentDebtRatioaroundtheWorld?:origin=card_share_link&:embed=n)
+![https://prod-useast-b.online.tableau.com/t/xiaoshi/views/HW2VisualizinggovernmentdebtusingTableau/GovernmentDebtRatioaroundtheWorld](https://prod-useast-b.online.tableau.com/t/xiaoshi/views/HW2VisualizinggovernmentdebtusingTableau/GovernmentDebtRatioaroundtheWorld?:origin=card_share_link&:embed=n)
 
 
 ## Assignment 3:
