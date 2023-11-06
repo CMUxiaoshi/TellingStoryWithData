@@ -38,7 +38,7 @@ Here are some of my works in class. Enjoy!
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://prod-useast-b.online.tableau.com/t/xiaoshi/views/HW2VisualizinggovernmentdebtusingTableau/GovernmentDebtRatioaroundtheWorld?:origin=card_share_link&:embed=n';                    
+  scriptElement.src = '[https://prod-useast-b.online.tableau.com/t/xiaoshi/views/HW2VisualizinggovernmentdebtusingTableau/GovernmentDebtRatioaroundtheWorld?:origin=card_share_link&:embed=n](https://prod-useast-b.online.tableau.com/#/site/xiaoshi/views/HW2VisualizinggovernmentdebtusingTableau/GovernmentDebtRatioaroundtheWorld?:iid=6)';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 ```
