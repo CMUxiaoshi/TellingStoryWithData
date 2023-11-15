@@ -33,7 +33,7 @@ Here are some of my works in class. Enjoy!
 
 ## Assignment 2: Visualizing government debt using Tableau: [Government Dept Ratio Worldwide](visualizing-government-debt.md)
 
-## Assignment 3: Critique by Design with Tableau (MakeoverMonday)[Tomato Producers]
+## Assignment 3: Critique by Design with Tableau (MakeoverMonday)[Tomato Producers](Critique_by_Design_with_Tableau.md)
 
 ## Project 1:
 
