@@ -13,6 +13,19 @@ Aesthetics: the background of this video is distracting. Too many colors in the 
 Engagement: I don’t understand what could inspire the audience to learn more about the topic. This visualization seems to only present the facts but does not provide any further information. 
 
 # Scratch and test the solution
+
+What do we want to talk about in this viz?
+
+The change in tomato productions over time for each countries/for the whole world. Which countries now have the highest production?
+
+Who are our audience?
+
+I think the audience might be people who is interested in agriculture development such as historians, economists, civil servants and college students. Thus, I think it's better to include some tags or explainations of this visualization to show how these data can help people above. For example, for policy maker, they can quickly find out which country has the highest production in tomato. Later, they can search policy of that countries of encouraging agriculture development faster. The origial visualization is posted on Linkedin, a tag can quickly attract people who are interesting in this data.
+
+How can we create the viz?
+Highlight the first countries, show the trend over time. Add a brief description after the graph.
+
+
 ![b6ecc6c9e7b72615a7f332e7fbd5f0c](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/a9d5cf8a-505e-47a7-943d-cf3a10c57a05)
 I'm also thinking of redesigning the pie graph in the original graph.
 ![image](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/d3e70773-75da-47f3-a84b-4b1391c2ca36)
@@ -68,7 +81,11 @@ The author of the video put four graphs in his dashboard: Three graphs at the to
 
 ## In class Feed Back
 
-The graph is intuitive. However, it should have a big title on the top of the graph and only use one title. 
+The graph is intuitive and clear overall.
+However, it should have a big title on the top of the graph and only use one title. 
+The pie chart is confused, you should delete it or make more specific explaination.
+You should use the same decimal places for all data.
+One data source is enouth.
 
 # Final Visualization
 
@@ -80,5 +97,6 @@ The graph is intuitive. However, it should have a big title on the top of the gr
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-The graph above shows top 10 cou
-I chose a green-gray color pair to highlight the biggest tomato producer. In the original context, I think the author wants to underscore "the biggest". Thus, in my graph, I use gray to gently ignore other countries. At the bottom of the graph, I put a line of production. It is supposed to show the yield of each country if you choose a different 
+(Brief Description) The whole world produce more tomatoes than ever. This graph shows the top 10 tomato producers. Do they use unique techniques or policy to boost their agriculture?
+
+I chose a green-gray color pair to highlight the biggest tomato producer. In the original context, I think the author wants to underscore "the biggest". Thus, in my graph, I use gray to gently ignore other countries. At the bottom of the graph, I put a line of production to describe the change trend. Compared to the original figure, this provides the audience a better understanding of how much tomato we create today. The brief explaination inspire audience for further thinking. (Probably I could place some link here for reference). The graph in the bottom could be better if I can show yield change in tomato production for each countries. To avoid the mess that is similar to the one in the video, I think it's better to use a filter and only show graph of the country that user choose, or several countries (less than ten) as the same time. However, due to the time limit, I'm still working on Tableau for how to add such a filter. 
