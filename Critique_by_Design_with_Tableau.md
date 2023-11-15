@@ -12,6 +12,64 @@ Truthfulness: If only looking at data at a single time point, the data presentat
 Aesthetics: the background of this video is distracting. Too many colors in the graph.
 Engagement: I don’t understand what could inspire the audience to learn more about the topic. This visualization seems to only present the facts but does not provide any further information. 
 
+# Scratch and test the solution
+![b6ecc6c9e7b72615a7f332e7fbd5f0c](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/a9d5cf8a-505e-47a7-943d-cf3a10c57a05)
+I'm also thinking of redesigning the pie graph in the original graph
+
+
+## Student, 23
+- Can you tell me what you think this is?
+
+It is about which countries yield the most tomatoes and how tomato production increases over time.
+
+- Can you describe to me what this is telling you?
+
+In 2021, China is the world's largest tomato-producing country. Tomato yield increased a lot. 
+
+- Is there anything you find surprising or confusing?
+
+There's no number in your scratch, which might not be so clear for me to understand how many tomatoes each country produced in 2021.
+
+- Who do you think is the intended audience for this?
+
+Economists.
+
+- Is there anything you would change or do differently?
+
+For me, I probably investigate the consumption per person of tomatoes as well.
+
+## Adult, 45
+
+- Can you tell me what you think this is?
+
+The production of tomatoes with its trend.
+
+- Can you describe to me what this is telling you?
+
+China is now the biggest tomato producer. The sum of production from the top 2 to top 10 countries is less than the production of China.
+
+- Is there anything you find surprising or confusing?
+
+We produce so many tomatoes nowadays! But this graph can't tell me whether all countries produce more tomatoes over time. 
+
+- Who do you think is the intended audience for this?
+
+Agricultural economists? Probably people just want to know this for fun.
+
+- Is there anything you would change or do differently?
+
+If I were you, I want to present the change in each country's yield.
+
+## What I Have Learned from the Video
+
+The video address: https://www.youtube.com/watch?v=UJNGnAkykK4
+The author of the video put four graphs in his dashboard: Three graphs at the top of the dashboard present the change in harvested, production, and yield. It seems he has extra data sources and did further research. On the bottom of his dashboard, he just put the change in rank of each country into a line chart. Users can use filters on the right to choose the country they want to highlight. This is a good way to present the change in each country compared to the original videos. He generally eliminates the impact of change in the x-axis and makes the comparison clear. You can not only compare the yield of top 10 countries but also compare the yield of countries all over the world. However, personally speaking, I don't think it's a good idea to put all countries on the same graph. The final graph is composed of hundreds of lines that intersect with each other.  
+
+## In class Feed Back
+
+The graph is intuitive. However, it should have a big title on the top of the graph and only use one title. 
+
+# Final Visualization
 
 <div class='tableauPlaceholder' id='viz1700075434413' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DF&#47;DFTSBFS77&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;DFTSBFS77' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DF&#47;DFTSBFS77&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>
   var divElement = document.getElementById('viz1700075434413');                    
@@ -21,3 +79,5 @@ Engagement: I don’t understand what could inspire the audience to learn more a
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+The graph above shows top 10 cou
+I chose a green-gray color pair to highlight the biggest tomato producer. In the original context, I think the author wants to underscore "the biggest". Thus, in my graph, I use gray to gently ignore other countries. At the bottom of the graph, I put a line of production. It is supposed to show the yield of each country if you choose a different 
