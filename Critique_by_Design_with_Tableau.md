@@ -14,7 +14,8 @@ Engagement: I don’t understand what could inspire the audience to learn more a
 
 # Scratch and test the solution
 ![b6ecc6c9e7b72615a7f332e7fbd5f0c](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/a9d5cf8a-505e-47a7-943d-cf3a10c57a05)
-I'm also thinking of redesigning the pie graph in the original graph
+I'm also thinking of redesigning the pie graph in the original graph.
+![image](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/d3e70773-75da-47f3-a84b-4b1391c2ca36)
 
 
 ## Student, 23
@@ -28,7 +29,7 @@ In 2021, China is the world's largest tomato-producing country. Tomato yield inc
 
 - Is there anything you find surprising or confusing?
 
-There's no number in your scratch, which might not be so clear for me to understand how many tomatoes each country produced in 2021.
+The number decimal are different in your scratch. Also I think I can figure out the approximated ratio without the pie chart. Thus the pie chart is kind of confused for me. 
 
 - Who do you think is the intended audience for this?
 
