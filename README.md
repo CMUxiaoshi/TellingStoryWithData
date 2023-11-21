@@ -35,9 +35,7 @@ Here are some of my works in class. Enjoy!
 
 ## Assignment 3: Critique by Design with Tableau (MakeoverMonday):[Tomato Producers](Critique_by_Design_with_Tableau.md)
 
-## Project 1:
-
-## Project 2:
+## Project 1: [Final Project Part One](Final_Project_Part_1.md)
 
 # Pictures
 ![IMG_0109](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/a01ead3d-ee8f-4c01-91d6-10a495b894b6)
