@@ -1,5 +1,3 @@
-| home page | visualizing debt | critique by design | final project I | final project II | final project III |
-
 # How digitally advanced are the public libraries in Pittsburgh?
 
 ## Outline
@@ -8,7 +6,57 @@
 
 Digital transformation is of vital importance for contemporary libraries. The Library of Congress prioritizes digital strategy as the library's strategic plan, aiming to expand access, enhance services, optimize resources, and measure results. (Library of Congress, 2019). The advantages of transformation include improvement of resource access and information searching efficiency, protection of cultural relics, support for academic research, reduction of maintenance costs, and improvement of information sharing. In general, the digitization of libraries has provided more efficient, convenient, and sustainable knowledge services for the information society, promoting the development of culture, education, and research.
 
-Do libraries in Pittsburgh perform better than the national average? This project will explore the current status of regional libraries in various aspects of digital transformation from the library's perspective and from the user's perspective. 
+In this project, I will not only analyze the overall digital trend across the country, but also compare local public library to the national average level. What perspectvie do local library performe better? What do not? After the analysis, I will also provide brief policy suggestions for library in Pittsburgh to performe better. 
+
+The Analysis mainly focus on two perspective: library perspective and user perspective. More details list in the data section.
+
+
+### Project Structure
+
+1. Brief introduction about the background, describe variables.
+
+   1.1 Background
+
+   1.2 Why transformation?
+
+   1.3 What variables we have now?
+
+2. Compare local library to national average level/ top 10 level.
+
+   2.1 Libraries Perspective
+
+   2.2 Users Perspective
+
+   2.3 Overall Summary 
+
+3. What can we do?
+
+   3.1 Improve Library Performance.
+
+   3.2 Encourage Customers.
+
+   2.3 Overall Summary
+
+## Initial Sketches
+The Story Arc
+![IMG_0025](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/ceba4c36-0eb0-48c8-894f-0b3fad1717c7)
+
+Why should we implement digital transformation? 
+
+![IMG_0026](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/f57bb019-3682-45ce-81d6-080375c8894b)
+
+How does Pittsburgh compare to the whole country?
+
+![IMG_0027](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/6025585a-4151-49e6-80b0-8909f64a035b)
+
+Users perspective, do they love electric version?
+
+![IMG_0028](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/2a0ccd37-770c-480a-ade9-236f839ea630)
+
+## The data
+
+Data Source: [Public Library Association PLA Servey and Data](https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey)
+They provides csv files from 2005-2021. I some of variables in these csv to createplot, inluding: 
 
 From the library perspective, I will focus on how much attention they pay to digital transformation: 
 
@@ -25,9 +73,3 @@ From the user perspective, I will focus on how users respond to the digital tran
 2. The amount of digital content downloaded.
 
 3. Electronic library cards issued 
-
-Most of 
-
-
-### project structure
-
