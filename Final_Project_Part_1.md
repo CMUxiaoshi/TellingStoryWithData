@@ -47,11 +47,11 @@ Why should we implement digital transformation?
 
 How does Pittsburgh compare to the whole country?
 
-![IMG_0027](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/6025585a-4151-49e6-80b0-8909f64a035b)
+![IMG_0027](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/2de28f46-5a64-4faa-a7e9-a5a7bd68b98f)
 
 Users perspective, do they love electric version?
 
-![IMG_0028](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/2a0ccd37-770c-480a-ade9-236f839ea630)
+![IMG_0028](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/1e503b53-2440-43e5-aef4-8d00e469ec58)
 
 ## The data
 
@@ -72,4 +72,7 @@ From the user perspective, I will focus on how users respond to the digital tran
 
 2. The amount of digital content downloaded.
 
-3. Electronic library cards issued 
+3. Electronic library cards issued
+
+## Method and Medium
+I'm using iPad to help me sketch my drafts. Data were viewed through Excel. ChatGPT was used for outline building.
