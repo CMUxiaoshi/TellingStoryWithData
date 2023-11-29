@@ -11,7 +11,7 @@ My targets are people within library industry such as library policy makers, lib
 # Interview script
 | Goal | Question to Ask |
 | :----: | :----: |
-| Intuition and clarity | 
+| Potential  | 
 
 Text here!
 
