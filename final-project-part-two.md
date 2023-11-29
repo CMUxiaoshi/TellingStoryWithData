@@ -15,9 +15,11 @@ My targets are people within library industry such as library policy makers, lib
 | Understanding | Is the logic of the story OK to you? | 
 | Clarity | Any visualization confuse you? |
 | Aesthetic | Which one of the figure you like the most? Why or why not? |
-｜General Improvement | Any other points need to improve?|
+| General Improvement | Any other points need to improve?|
+
 # Interview findings
-|Feedback number| Interview 1 (Female, 20s)| Interview 2 (Male, 20s)| Interview 3 (Female, 20s)|
+| Feedback number| Interview 1 (Female, 20s) | Interview 2 (Male, 20s) | Interview 3 (Female, 20s) |
+| :----: | :----: | :----: | :----: |
 | 1 | This report is useful for me because I like to borrow digital books from library. I really think library should improve their online service and provide more e-books! The total logic is OK for me. But the title of the report is kind of confuse as it does not point out what opportunity that the pandemic provided.| Total logic is fine. But the defination of the library seems to be redundant.| The title of the whole report as well as the title of each part seems confuse to me. Overall logic is OK.|
 | 2 | The color of the line chart does not match other graph's color | The title of each axis is not specific show in the graph, I can only find relavent information in the chart description and the title of graph | Figure 3 seems a little bit confused to me as the first time span is 10 years while the second time span is 9 years. Can you make it all the same? |
 | 3 | I think the description for the first two figures are also mentioned in the first part of your report, is this kind of redudant? | The font size of each topics seems different, though I think these topics are on the same level. You probably need to change that. | Remember to check grammar and sentences.|
