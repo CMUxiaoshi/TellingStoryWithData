@@ -9,6 +9,7 @@ Include your approach to identifying representative individuals, and who you hop
 My targets are people within library industry such as library policy makers, library owners and employees, and people who frequently visit libraries. Audients may have already noticed that running library is expensive, especially after the pandemic, or suffered from the difficulties of borrowing e-version of books from library. They do not need to understand anything about digital transformation because that is not the point I want to discuss in detail in the story. What I want to underscore is that library should seize the oppotunites provides by the pandemic and finish the digital transformation, which benefits everyone. Thus, this report is more like an evidence supporting the idea that library should transform as soon as possible and this can be a resolution as problems mentioned above.
 
 # Interview script
+
 | Goal | Question to Ask |
 | :----: | :----: |
 | Engagement | Who's the possible audience of this report? |
@@ -18,6 +19,7 @@ My targets are people within library industry such as library policy makers, lib
 | General Improvement | Any other points need to improve?|
 
 # Interview findings
+
 | Feedback number| Interview 1 (Female, 20s) | Interview 2 (Male, 20s) | Interview 3 (Female, 20s) |
 | :----: | :----: | :----: | :----: |
 | 1 | This report is useful for me because I like to borrow digital books from library. I really think library should improve their online service and provide more e-books! The total logic is OK for me. But the title of the report is kind of confuse as it does not point out what opportunity that the pandemic provided.| Total logic is fine. But the defination of the library seems to be redundant.| The title of the whole report as well as the title of each part seems confuse to me. Overall logic is OK.|
