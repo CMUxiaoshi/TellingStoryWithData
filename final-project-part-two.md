@@ -1,15 +1,17 @@
-Wireframes / storyboards
+# Wireframes / storyboards
 
 <script src="https://xiao-shi.shorthandstories.com/96ff1be4-9304-450a-9d8c-d902ccdc59d6/embed.js"></script>
 
-User research
+# User research
 Target audience
 Include your approach to identifying representative individuals, and who you hope to reach with your story.
 
-Text here!
+My targets are people within library industry such as library policy makers, library owners and employees, and people who frequently visit libraries. Audients may have already noticed that running library is expensive, especially after the pandemic, or suffered from the difficulties of borrowing e-version of books from library. They do not need to understand anything about digital transformation because that is not the point I want to discuss in detail in the story. What I want to underscore is that library should seize the oppotunites provides by the pandemic and finish the digital transformation, which benefits everyone. Thus, this report is more like an evidence supporting the idea that library should transform as soon as possible and this can be a resolution as problems mentioned above.
 
-Interview script
-List the goals from your research, and the questions you intend to ask.
+# Interview script
+| Goal | Question to Ask |
+| :----: | :----: |
+| Intuition and clarity | 
 
 Text here!
 
