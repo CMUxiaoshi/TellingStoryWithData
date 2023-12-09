@@ -1,3 +1,5 @@
+| [home page](https://cmuxiaoshi.github.io/TellingStoryWithData/) | [visualizing debt](visualizing-government-debt.md.md) | [critique by design](Critique_by_Design_with_Tableau.md) | [final project I](Final_Project_Part_1.md)| [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+
 Hi, there.
 
 Welcome to visit my GitHub and this repo is my data visualization practice. This is based on Telling Stories with Data at CMU! Here's where all my cool work will go.
