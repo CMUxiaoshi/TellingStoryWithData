@@ -34,6 +34,7 @@ Here are some of my works in class. Enjoy!
 ## Assignment 1: Data visualization critique #1
 
 ## Assignment 2: Visualizing government debt using Tableau: [Government Dept Ratio Worldwide](visualizing-government-debt.md)
+The Organization for Economic Co-operation and Development (OECD) has a lot of interesting, easy to use and downloadable datasets, and also includes a tool that allows you a way to embed interactive visualizations directly from their website. A number of web-based tools allow you to create data visualizations directly and then embed them somewhere else, so the first part of this assignment will involve taking the code for the generated visualization you’ve customized and placing it on your own portfolio page.
 
 ## Assignment 3: Critique by Design with Tableau (MakeoverMonday):[Tomato Producers](Critique_by_Design_with_Tableau.md)
 
