@@ -1,3 +1,4 @@
+| [home page](https://cmuxiaoshi.github.io/TellingStoryWithData/) | [visualizing debt](visualizing-government-debt.md.md) | [critique by design](Critique_by_Design_with_Tableau.md) | [final project I](Final_Project_Part_1.md)| [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 # Part 1: Working with web-based visualization tools and data
 <iframe src="https://data.oecd.org/chart/7eXV" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eXV" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
