@@ -39,8 +39,11 @@ The Organization for Economic Co-operation and Development (OECD) has a lot of i
 ## Assignment 3: Critique by Design with Tableau (MakeoverMonday):[Tomato Producers](Critique_by_Design_with_Tableau.md)
 
 ## Project: [Final Project Part One](Final_Project_Part_1.md)
+A Basic draft.
 ## Project: [Final Project Part two](final-project-part-two.md)
+Improved version. Shorthand was used. Establish a complete logic of the story.
 ## Project: [Final Project Part three](final-project-part-three.md)
+Final version. Redesign some graphs. Change some titles. 
 # Pictures
 ![IMG_0109](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/a01ead3d-ee8f-4c01-91d6-10a495b894b6)
 
