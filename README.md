@@ -17,7 +17,7 @@ This repository https://github.com/CMUxiaoshi/TellingStoryWithData
 
 # What I expect to learn 
 
-Data virtulization skills, and of course, telling story with data!
+Data virtualization skills, and of course, telling a story with data!
 
 Here is my studying list:
 
@@ -37,6 +37,7 @@ Here are some of my works in class. Enjoy!
 
 ## Project: [Final Project Part One](Final_Project_Part_1.md)
 ## Project: [Final Project Part two](final-project-part-two.md)
+## Project: [Final Project Part three](final-project-part-three.md)
 # Pictures
 ![IMG_0109](https://github.com/CMUxiaoshi/TellingStoryWithData/assets/116749406/a01ead3d-ee8f-4c01-91d6-10a495b894b6)
 
